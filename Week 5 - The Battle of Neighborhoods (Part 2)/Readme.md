@@ -23,6 +23,7 @@
 
     3) Your choice of a presentation or blog post. (10 marks)
 
+
 # Links to Jupyter Notebook:
 # Capstone Project - The Battle of Neighbourhoods - London's Crime Rate Analysis and Clustering of the Safest Neighbourhoods of London.ipynb
 
@@ -50,3 +51,8 @@ If you are unable to view the code / charts properly on GitHub, then you may eit
  - Click on the “Download” button to download the .ipynb file
  #### OR
  - Click on the “Circle with Horizontal Line” symbol on the top right-hand corner to view the Jupyter Notebook with “nbviewer”
+
+
+# Link to the Report:
+# Report - Capstone Project - The Battle of Neighbourhoods.pdf
+https://github.com/vincyspereira/Coursera_Capstone/blob/3a21aebc5d4b751ea7f9c2834d63065b0584d75d/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Part%202)/Report%20-%20Capstone%20Project%20-%20The%20Battle%20of%20Neighbourhoods.pdf
