@@ -25,7 +25,7 @@
 
 
 # Links to Jupyter Notebook:
-# Capstone Project - The Battle of Neighbourhoods - London's Crime Rate Analysis and Clustering of the Safest Neighbourhoods of London.ipynb
+# "Capstone Project - The Battle of Neighbourhoods - London's Crime Rate Analysis and Clustering of the Safest Neighbourhoods of London.ipynb"
 
 ## Link to the Jupyter Notebook on IBM Cloud:
 https://dataplatform.cloud.ibm.com/data/notebooks/converter/assets/f49c3f5a-2bfe-41bb-a039-b5ea9b394089?access_token=ede20c50e612a1fcc1e16f7c251ee61c693f88bec0a15776a6c1fc1640df7f59&project=9f612979-605a-49a0-872e-28a1af5fd1f3#Index
@@ -54,5 +54,9 @@ If you are unable to view the code / charts properly on GitHub, then you may eit
 
 
 # Link to the Report:
-# Report - Capstone Project - The Battle of Neighbourhoods.pdf
+# "Report - Capstone Project - The Battle of Neighbourhoods.pdf"
 https://github.com/vincyspereira/Coursera_Capstone/blob/3a21aebc5d4b751ea7f9c2834d63065b0584d75d/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Part%202)/Report%20-%20Capstone%20Project%20-%20The%20Battle%20of%20Neighbourhoods.pdf
+
+### Note:
+If you are unable to view the pdf file properly on GitHub, then you may:
+ - Click on the “Download” button to download the pdf file and view it
