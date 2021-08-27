@@ -51,7 +51,7 @@ https://github.com/vincyspereira/Coursera_Capstone/blob/bf34446214550cdb357c81f9
 #### Note:
 If you are unable to view the code / charts properly on GitHub, then you may either:
  - Click on the “Circle with Horizontal Line” symbol on the top right-hand corner to view the Jupyter Notebook with “nbviewer”
- ##### OR
+   ##### OR
  - Click on the “Download” button to download the .ipynb file
 
 
