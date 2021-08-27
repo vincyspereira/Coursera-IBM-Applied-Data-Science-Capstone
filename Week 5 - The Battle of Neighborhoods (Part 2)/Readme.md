@@ -24,29 +24,34 @@
     3) Your choice of a presentation or blog post. (10 marks)
 
 
-# If due to some reason, you are unable to view / open either the Jupyter Notebook or the Report on GitHub, you may access the files from the below mentioned links
+# If due to some reason, you are unable to view / open either the Jupyter Notebook, Charts, Maps or the Report on GitHub, you may access the files from the below mentioned links
 
 ## Links to Jupyter Notebook:
 ## "Capstone Project - The Battle of Neighbourhoods - London's Crime Rate Analysis and Clustering of the Safest Neighbourhoods of London.ipynb"
 
 ### Link to the Jupyter Notebook on IBM Cloud:
-https://dataplatform.cloud.ibm.com/data/notebooks/converter/assets/f49c3f5a-2bfe-41bb-a039-b5ea9b394089?access_token=ede20c50e612a1fcc1e16f7c251ee61c693f88bec0a15776a6c1fc1640df7f59&project=9f612979-605a-49a0-872e-28a1af5fd1f3#Index
+https://dataplatform.cloud.ibm.com/data/notebooks/converter/assets/d5bceede-83ff-49d0-ab73-52e63bd87f68?access_token=82b7a0d2df4129ac2908fa0699a68c54593df44161e070f749a484d2271e6f2a&project=9f612979-605a-49a0-872e-28a1af5fd1f3#Index
 
 #### OR
 
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f49c3f5a-2bfe-41bb-a039-b5ea9b394089/view?access_token=ede20c50e612a1fcc1e16f7c251ee61c693f88bec0a15776a6c1fc1640df7f59
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/d5bceede-83ff-49d0-ab73-52e63bd87f68/view?access_token=82b7a0d2df4129ac2908fa0699a68c54593df44161e070f749a484d2271e6f2a
 
 
 ### Link to the Jupyter Notebook on Binder:
-https://mybinder.org/v2/gh/vincyspereira/Coursera_Capstone/bf34446214550cdb357c81f92f4f176554b33994
+https://mybinder.org/v2/gh/vincyspereira/Coursera_Capstone/203db5691ae40c205c60e7c3cbceb9a8e73cb856
 
 #### Note:
  - First click on the “Week 5 – The Battle of Neighbourhoods (Part 2)” folder
  - Next, click on the “Capstone Project - The Battle of Neighbourhoods - London's Crime Rate Analysis and Clustering of the Safest Neighbourhoods of London.ipynb” file to access the Jupyter Notebook
+ - Lastly, click the ‘File’ Menu and then select ‘Trust Notebook’ to view the charts and maps
+
+
+### Link to the Jupyter Notebook using 'nbviewer': 
+https://nbviewer.jupyter.org/github/vincyspereira/Coursera_Capstone/blob/203db5691ae40c205c60e7c3cbceb9a8e73cb856/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Part%202)/Capstone%20Project%20-%20The%20Battle%20of%20Neighbourhoods%20-%20London's%20Crime%20Rate%20Analysis%20and%20Clustering%20of%20the%20Safest%20Neighbourhoods%20of%20London.ipynb#10
 
 
 ### Link to the Jupyter Notebook on GitHub: 
-https://github.com/vincyspereira/Coursera_Capstone/blob/bf34446214550cdb357c81f92f4f176554b33994/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Part%202)/Capstone%20Project%20-%20The%20Battle%20of%20Neighbourhoods%20-%20London's%20Crime%20Rate%20Analysis%20and%20Clustering%20of%20the%20Safest%20Neighbourhoods%20of%20London.ipynb
+https://github.com/vincyspereira/Coursera_Capstone/blob/203db5691ae40c205c60e7c3cbceb9a8e73cb856/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Part%202)/Capstone%20Project%20-%20The%20Battle%20of%20Neighbourhoods%20-%20London's%20Crime%20Rate%20Analysis%20and%20Clustering%20of%20the%20Safest%20Neighbourhoods%20of%20London.ipynb
 
 #### Note:
 If you are unable to view the code / charts properly on GitHub, then you may either:
