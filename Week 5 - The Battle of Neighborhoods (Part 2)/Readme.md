@@ -59,7 +59,13 @@ If you are unable to view the code / charts properly on GitHub, then you may eit
 ## Link to the Report:
 ## "Report - Capstone Project - The Battle of Neighbourhoods.pdf"
 https://github.com/vincyspereira/Coursera_Capstone/blob/2178e01c850bc0c323e0ee6d0764a950aa849983/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Part%202)/Report%20-%20Capstone%20Project%20-%20The%20Battle%20of%20Neighbourhoods.pdf
+[Report - Capstone Project - The Battle of Neighbourhoods.pdf](https://github.com/vincyspereira/Coursera_Capstone/files/7094991/Report.-.Capstone.Project.-.The.Battle.of.Neighbourhoods.pdf)
 
 #### Note:
 If you are unable to view the pdf file properly on GitHub, then you may:
  - Click on the “Download” button to download the pdf file and view it
+
+
+## Link to the Blog:
+## "The Battle of Neighbourhoods: London's Crime Rate Analysis and Clustering of the Safest Neighbourhoods of London"
+https://www.linkedin.com/pulse/battle-neighbourhoods-londons-crime-rate-analysis-safest-pereira
